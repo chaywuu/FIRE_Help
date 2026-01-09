@@ -2,8 +2,7 @@ export default {
   title: "FIRE手册",
   description: "FIRE火记的操作手册相关",
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }]
+    ['link', { rel: 'icon', href: '/favicon.png' }],
   ],
   themeConfig: {
     search: {

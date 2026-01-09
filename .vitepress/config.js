@@ -1,6 +1,7 @@
 export default {
   title: "FIRE火记手册",
   description: "",
+  base: '/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
   ],

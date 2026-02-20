@@ -1,1 +1,7 @@
-/* 使用默认样式 */
+/* 文档内容区域的图片样式 */
+.vp-doc img {
+  border-radius: 8px; /* 圆角 */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* 阴影 */
+  margin: 1rem auto; /* 居中并增加上下间距 */
+  display: block; /* 确保居中生效 */
+}

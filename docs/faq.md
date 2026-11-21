@@ -29,4 +29,4 @@ FIRE火记提供最为不敏感的信息（邮箱）进行注册，你记录的�
 
 不能买断其实是为了让我们的服务能更好更久的服务下去。
 
-👉 [点击查看会员简介](https://help.fireapp.me/pro.html)
+👉 [点击查看会员介绍](https://help.fireapp.me/pro.html)

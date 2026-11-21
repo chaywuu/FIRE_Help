@@ -32,12 +32,16 @@ export default {
           text: '资产',
           items: [
             { text: '📈 资产和负债', link: '/asset' },
+            { text: '💼 投资持仓管理 ᴾᴿᴼ', link: '/holding' },
+            { text: '🔃 资产类排序', link: '/asset-category-sort' },
+            { text: '↕️ 资产排序', link: '/asset-sort' },
+            { text: '🙈 资产隐藏', link: '/asset-hide' }
           ]
         },
         {
           text: '账本',
           items: [
-            { text: '📖 账本管理 ᴾᴿᴼ', link: '/book' },
+            { text: '📖 账本管理', link: '/book' },
           ]
         },
         {
@@ -50,6 +54,7 @@ export default {
           text: '账单',
           items: [
             { text: '💰 记一笔', link: '/bill' },
+            { text: '🖼️ 账单图片', link: '/bill-image' },
             { text: '📊 账单统计', link: '/statistics' },
             { text: '🆚 账单对比', link: '/compare' },
           ]
@@ -84,6 +89,7 @@ export default {
           text: '关于我们',
           items: [
             { text: '🔄 版本更新', link: '/update' },
+            { text: '💳 自动续费协议', link: '/auto-renew' },
             { text: '😄 关于我们', link: '/about' }
           ]
         }

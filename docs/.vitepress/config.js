@@ -62,7 +62,8 @@ export default {
         {
           text: '预算',
           items: [
-            { text: '📅 预算管理', link: '/budget' },
+            { text: '📅 总预算', link: '/budget' },
+            { text: '🗂️ 分类预算 ᴾᴿᴼ', link: '/budget-category' },
           ]
         },
         {

@@ -89,6 +89,7 @@ export default {
         {
           text: '关于我们',
           items: [
+            { text: '✉️ 联系我们', link: '/contact' },
             { text: '🔄 版本更新', link: '/update' },
             { text: '💳 自动续费协议', link: '/auto-renew' },
             { text: '😄 关于我们', link: '/about' }
